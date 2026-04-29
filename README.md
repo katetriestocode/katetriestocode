@@ -27,7 +27,6 @@
 -->
 
 <div align="center">
-  <table align="center">
     <tr>
       <td align="left">
         <pre>
@@ -37,7 +36,6 @@
           🌸 Compeng at Polimi 🔜          </pre>
               </td>
     </tr>
-  </table>
 </div>
 
 
