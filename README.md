@@ -25,19 +25,12 @@
     🌸 🔜 Compeng at Polimi
 </pre>
 -->
-
-<div align="center">
-    <tr>
-      <td align="left">
-        <pre>
-          🌸 Magical girl          
-          🌸 IB26 Student          
-          🌸 Hackclubber          
-          🌸 Compeng at Polimi 🔜          </pre>
-              </td>
-    </tr>
-</div>
-
+<pre>
+    🌸 Magical girl
+    🌸 IB26 Student
+    🌸 Hackclubber
+    🌸 🔜 Compeng at Polimi
+</pre>
 
 <!-- <img src="https://gist.github.com/s-shivangi/7b54ec766cf446cafeb83882b590174d/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif" height="80" /> -->
 <div align="center">
