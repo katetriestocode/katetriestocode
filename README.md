@@ -3,7 +3,7 @@
 <img src="https://github.com/katetriestocode/katetriestocode/blob/main/assets/7489b16f0de1fd41a745a0c669966de9.jpg?raw=true" width="35%" align="right" />
 <img src="https://github.com/katetriestocode/katetriestocode/blob/main/assets/hello.png?raw=true" width="40%" />
 
-<br><br><br>
+<br><br>
 
 <!--
 <div align="center">
@@ -32,11 +32,12 @@
     🌸 🔜 Compeng at Polimi
 </pre>
 
+<br>
 <!-- <img src="https://gist.github.com/s-shivangi/7b54ec766cf446cafeb83882b590174d/raw/8957088c2e31dba6d72ce86c615cb3c7bb7f0b0c/nyan-cat.gif" height="80" /> -->
 <div align="center">
-  <img src="https://pixels.crd.co/assets/images/gallery16/421a750b.gif?v=29416114" height="40" style="margin: 0 5px;" />
-  <img src="https://pixels.crd.co/assets/images/gallery16/421a750b.gif?v=29416114" height="40" style="margin: 0 5px;" />
-  <img src="https://pixels.crd.co/assets/images/gallery16/421a750b.gif?v=29416114" height="40" style="margin: 0 5px;" />
+  <img src="https://pixels.crd.co/assets/images/gallery16/421a750b.gif?v=29416114" width="50" style="margin: 0 5px;" />
+  <img src="https://pixels.crd.co/assets/images/gallery16/421a750b.gif?v=29416114" width="50" style="margin: 0 5px;" />
+  <img src="https://pixels.crd.co/assets/images/gallery16/421a750b.gif?v=29416114" width="50" style="margin: 0 5px;" />
 </div>
 
 <br>
