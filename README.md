@@ -20,9 +20,9 @@
   font-size: 1.3em;
 ">
     🌸 Magical girl
-    🌸 IB26 Student
+    🌸 IB26 Grad
     🌸 Hackclubber
-    🌸 🔜 Compeng at Polimi
+    🌸 Compeng at Polimi
 </pre>
 -->
 <pre>
