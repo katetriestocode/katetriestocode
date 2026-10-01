@@ -30,9 +30,9 @@
 -->
 <pre>
     🌸 Magical girl
-    🌸 IB26 Student
+    🌸 IB26 Grad
     🌸 Hackclubber
-    🌸 🔜 Compeng at Polimi
+    🌸 Compeng at Polimi
 </pre>
 
 <br>
