@@ -1,6 +1,9 @@
 <div align="center">
 <br><br>
-<img src="https://github.com/katetriestocode/katetriestocode/blob/main/assets/7489b16f0de1fd41a745a0c669966de9.jpg?raw=true" width="35%" align="right" />
+
+<img src="https://github.com/katetriestocode/katetriestocode/blob/main/assets/7489b16f0de1fd41a745a0c669966de9.jpg?raw=true#gh-light-mode-only" width="35%" align="right" />
+<img src="https://github.com/katetriestocode/katetriestocode/blob/main/assets/IMG_2666.png?raw=true#gh-dark-mode-only" width="45%" align="right" />
+
 <img src="https://github.com/katetriestocode/katetriestocode/blob/main/assets/hello.png?raw=true" width="45%" />
 
 <br><br>
